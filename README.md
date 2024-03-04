@@ -1,0 +1,1 @@
+There should be a minimum of two files for each deployment. One will contain a screenshot of the file structure and the second will be the configuration file. If additional files are needed, they will be included. 
