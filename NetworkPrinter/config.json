@@ -1,0 +1,5 @@
+{
+  "PrinterUNC": "\\\\printserver\\ShareName",
+  "PrinterName": "Friendly Display Name",
+  "SetAsDefault": false
+}
